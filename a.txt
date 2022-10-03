@@ -1,6 +1,4 @@
 naveen kumar is a techigai employee
-<<<<<<< Updated upstream
 he is on leave today
-=======
 hello there
->>>>>>> Stashed changes
+
